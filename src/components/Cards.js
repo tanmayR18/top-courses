@@ -21,7 +21,6 @@ const Cards = (props) => {
             //main sirf specific categiry ka data array krunga  
             return courses[category];      
         }
-
     }
 
   return (
